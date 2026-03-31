@@ -4,6 +4,7 @@
 
 <img width="159" height="43" alt="TaskbarCoreTemp" src="https://github.com/user-attachments/assets/fe6c5e79-c5ec-47e6-8abc-3646d666559d" />
 
+
 This project provides a custom widget for KDE Plasma 6. It displays your CPU core temperatures on your taskbar. It relies on the generic sensors package to read your hardware data securely.
 
 ## Project Structure
