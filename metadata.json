@@ -1,0 +1,18 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Id": "com.soubhagya.coretemp",
+        "Name": "Core Temp",
+        "Description": "Displays CPU core temperatures using lm_sensors.",
+        "Icon": "cpu",
+        "Category": "System Information",
+        "Version": "1.0",
+        "Authors": [
+            {
+                "Name": "Soubhagya",
+                "Email": "noreply@example.com"
+            }
+        ]
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

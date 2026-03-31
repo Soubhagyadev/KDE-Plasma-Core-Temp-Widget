@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+      http://www.kde.org/standards/kcfg/1.0/kcfg.xsd" >
+  <kcfgfile name=""/>
+  <group name="Appearance">
+    <entry name="customFontSize" type="Int">
+      <default>10</default>
+    </entry>
+    <entry name="showDegreeSymbol" type="Bool">
+      <default>true</default>
+    </entry>
+    <entry name="separatorText" type="String">
+      <default>|</default>
+    </entry>
+    
+    <!-- New Advanced Settings -->
+    <entry name="pollInterval" type="Int">
+      <default>2000</default>
+    </entry>
+    <entry name="tempWarning" type="Int">
+      <default>65</default>
+    </entry>
+    <entry name="tempCritical" type="Int">
+      <default>85</default>
+    </entry>
+    <entry name="boldFont" type="Bool">
+      <default>false</default>
+    </entry>
+    <entry name="maxCoreOnly" type="Bool">
+      <default>false</default>
+    </entry>
+
+  </group>
+</kcfg>
