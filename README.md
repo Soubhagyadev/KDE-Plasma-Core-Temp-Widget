@@ -1,5 +1,7 @@
 # Core Temp Widget
 
+**Coming To Plasma Store Soon!**
+
 This project provides a custom widget for KDE Plasma 6. It displays your CPU core temperatures on your taskbar. It relies on the generic sensors package to read your hardware data securely.
 
 ## Project Structure
