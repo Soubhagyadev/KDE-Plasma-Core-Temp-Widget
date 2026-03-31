@@ -7,14 +7,6 @@
 
 This project provides a custom widget for KDE Plasma 6. It displays your CPU core temperatures on your taskbar. It relies on the generic sensors package to read your hardware data securely.
 
-## Project Structure
-
-* metadata.json : The required Plasma properties and description file.
-* contents/ui/main.qml : The central user interface logic that displays your temperatures.
-* contents/ui/configAppearance.qml : The visual layout of the custom settings page.
-* contents/config/main.xml : The default configuration data mapping and backend values.
-* contents/config/config.qml : The application settings registry linking the entire widget together.
-
 ## Setup Instructions
 
 You can set up this widget graphically without typing terminal commands.
